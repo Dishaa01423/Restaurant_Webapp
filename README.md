@@ -1,1 +1,1 @@
-# Restaurant_Webapp
+This repository contains a Restaurant Web Application, a platform designed to help restaurant owners manage their business and allow customers to browse menus, make reservations, and order food online. Whether you're a restaurant owner or a food lover, this web app provides a seamless dining experience.
